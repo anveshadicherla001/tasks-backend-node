@@ -1,0 +1,35 @@
+{
+  "name": "tasks-backend-node",
+  "version": "1.0.0",
+  "description": "tasks backend application ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anveshadicherla001/tasks-backend-node.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Anvesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anveshadicherla001/tasks-backend-node/issues"
+  },
+  "homepage": "https://github.com/anveshadicherla001/tasks-backend-node#readme",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cookie-parser": "1.4.5",
+    "cors": "2.8.5",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "express-jwt": "6.0.0",
+    "express-validator": "6.10.0",
+    "jsonwebtoken": "8.5.1",
+    "loadash": "1.0.0",
+    "md5": "2.3.0",
+    "mysql": "2.18.1"
+  }
+}
