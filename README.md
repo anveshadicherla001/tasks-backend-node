@@ -18,12 +18,12 @@ npm install
 Copy env.local.txt file as .env and replace required information
 
 
-Import the database:
+### Importing Database
 
 import required database tables with data using intelegain_tasks.sql file. File will be available in root of the project folder.
 
 
-Run the Code:
+### Running the Project
 
 ```
 node app.js or nodemon app.js
